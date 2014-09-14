@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 
-tagline:
+title: Ana Sayfa
+tagline: Blog
 ---
 {% include JB/setup %}
     

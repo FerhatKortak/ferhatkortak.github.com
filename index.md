@@ -19,6 +19,8 @@ When you don't need the samples anymore just delete the `_posts/core-samples` fo
 
     $ rm -rf _posts/core-samples
 
+    <img src="/media/blanca.jpg"/>
+
 Here's a sample "posts list".
 
 <ul class="posts">

@@ -19,8 +19,8 @@ When you don't need the samples anymore just delete the `_posts/core-samples` fo
 
     $ rm -rf _posts/core-samples
 
-    <img src="/media/blanca.jpg"/>
 
+<img src="/media/2014-01-22-thinny-2/blanca.jpg"></img>
 Here's a sample "posts list".
 
 <ul class="posts">
@@ -28,6 +28,7 @@ Here's a sample "posts list".
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
+
 
 ## To-Do
 

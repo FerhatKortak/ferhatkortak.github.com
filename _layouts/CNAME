@@ -2,4 +2,4 @@
 layout: default
 ---
 {% include JB/setup %}
-{% include themes/hyde/CNAME %}
+{% include themes/Thin/CNAME %}

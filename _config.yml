@@ -6,14 +6,14 @@ pygments:	true
 permalink:	/blog/:title
 
 # Setup
-title:		Thinny
+title:		Ferhat Kortak
 tagline:	'blog'
-description:	'My personal blog.'
-url:		http://camporez.com
+description:	'Kişisel Blogum'
+url:		http://ferhatkortak.github.io
 
 author:
-  name:		'Ian Camporez Brunelli'
-  url:		https://google.com/+IanCamporezBrunelli
+  name:		'Ferhat Kortak '
+  url:		ferhatkortak.wordpress.com
 
 paginate:	5
 
@@ -23,15 +23,15 @@ cover:		/assets/images/cover.jpg
 
 social:
   - icon:	twitter
-    url:	https://twitter.com/iancamporez
+    url:	https://twitter.com/ferhatkortak
     desc:	Follow me on twitter
 
   - icon:	github
-    url:	https://github.com/camporez
+    url:	https://github.com/ferhatkortak
     desc:	Fork me on github
 
   - icon:	googleplus-alt
-    url:	https://google.com/+IanCamporezBrunelli
+    url:	https://google.com/+ferhatkortak
     desc:	Add me on google+
 
   - icon:	feed
@@ -46,7 +46,7 @@ menu:
     url:	/about
     
 copyright:
-  author:	Camporez
-  url:		http://camporez.com
+  author:	Ferhat Kortak
+  url:		http://ferhatkortak.github.io
   type_title:	Some rights reserved
   type_url:	http://creativecommons.org/licenses/by-nc/2.5
